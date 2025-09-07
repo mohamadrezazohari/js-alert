@@ -1,0 +1,20 @@
+section {
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+  background-color: rgb(18, 153, 231);
+}
+
+.main-content {
+  font-style: italic;
+  color: rgb(238, 176, 176);
+}
+
+.btn-style {
+  border-radius: 20px;
+  background-color: rgb(248, 214, 102);
+  border: 2px solid white;
+  width: 100px;
+  height: auto;
+  cursor: pointer;
+}
